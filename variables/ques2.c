@@ -3,7 +3,7 @@
 int main() {
     float side;
     printf("enter side");
-    scanf("%d", &side);
+    scanf("%f", &side);
      
     printf("area is : %f", side * side);
 
